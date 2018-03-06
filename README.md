@@ -13,9 +13,9 @@ pertenecientes a la materia Laboratorio 4.
 2. Repo centralizado
 3. Repo desentralizado
 4. git
-  1. Trabajo Local
-  2. Colaboracion
-  3. Workflows
+  - Trabajo Local
+  - Colaboracion
+  - Workflows
     1. Centralizado
     2. Feature branches
     3. Forks
@@ -24,9 +24,9 @@ pertenecientes a la materia Laboratorio 4.
 1. Introduccion
 2. Conceptos de dise~no de bases de datos no-sql
 3. Mongodb
-  1. Instalacion y configuracion
-  2. Creacion de collections
-  3. Operaciones de manipulacion de los datos.
+  - Instalacion y configuracion
+  - Creacion de collections
+  - Operaciones de manipulacion de los datos.
 4. Libreria nativa de conexion con NodeJs
 5. Manipulacion de datos desde NodeJS
 
