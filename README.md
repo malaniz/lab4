@@ -11,22 +11,22 @@ pertenecientes a la materia Laboratorio 4.
 ### Repositorios de codigo y Git
 1. Introduccion a repositorios de codigos
 2. Repo centralizado
-3. Repo desenctralizado
+3. Repo desentralizado
 4. git
-  a. Trabajo Local
-  b. Colaboracion
-  c. Workflows
-    i. Centralizado
-    ii. Feature branches
-    iii. Forks
+  1. Trabajo Local
+  2. Colaboracion
+  3. Workflows
+    1. Centralizado
+    2. Feature branches
+    3. Forks
 
 ### Base de datos no relacional: Mongodb
 1. Introduccion
 2. Conceptos de dise~no de bases de datos no-sql
 3. Mongodb
-  a. Instalacion y configuracion
-  b. Creacion de collections
-  c. Operaciones de manipulacion de los datos.
+  1. Instalacion y configuracion
+  2. Creacion de collections
+  3. Operaciones de manipulacion de los datos.
 4. Libreria nativa de conexion con NodeJs
 5. Manipulacion de datos desde NodeJS
 
