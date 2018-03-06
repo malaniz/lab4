@@ -13,12 +13,12 @@ pertenecientes a la materia Laboratorio 4.
 2. Repo centralizado
 3. Repo desentralizado
 4. git
-  - Trabajo Local
-  - Colaboracion
-  - Workflows
-    1. Centralizado
-    2. Feature branches
-    3. Forks
+   - Trabajo Local
+   - Colaboracion
+   - Workflows
+     1. Centralizado
+     2. Feature branches
+     3. Forks
 
 ### Base de datos no relacional: Mongodb
 1. Introduccion
